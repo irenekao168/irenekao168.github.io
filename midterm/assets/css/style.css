@@ -108,12 +108,21 @@ a{
     position: relative;
 }
 
-
+.bo{
+    float:left;
+    display:inline;
+    width:49%
+}
 
 #store{
-    text-align:right;
-    
+    float: right;
+    display:inline;
+    width:49%;
+    margin-top: 40px;
+
 }
+
+
 
 #title-descript{
     font-family: "Farro";
@@ -168,10 +177,16 @@ a{
     position: relative;
 }
 
+.bo2{
+    float:right;
+    display:inline;
+    width:49%
+}
+
 #loc{
-    position:absolute;
-    margin-right:0px;
-    margin-top: 80px;
+    margin-top:75px;
+    float:left;
+    width:49%
 }
 
 #title-descript2{

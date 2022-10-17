@@ -31,6 +31,15 @@ body{
 }
 
 
+#first-pic{
+    float:right;
+    margin-right:100px;
+}
+
+.p0{
+    float:left;
+}
+
 
 .rec2{
     height:auto;
@@ -167,26 +176,21 @@ body{
 
 
 
-#first-pic{
-    text-align: right;
-    margin-left:680px;
-    margin-top:-400px;
-}
-
-
 
 .third{
     background-color:rgb(57, 76, 86);
     height:600px;
-    padding-top:100px;
+ 
+}
+
+.p1{
+    float:left;
 }
 
 #second-pic{
-    text-align: right;
-    margin-left:680px;
-    margin-top:-400px;
+    float:right;
+    margin-right:100px;
 }
-
 
 
 .rec3{
@@ -306,13 +310,16 @@ body{
 .fourth{
     background-color:rgb(57, 76, 86);
     height:600px;
-    margin-top:-30px;
+ 
 }
 
 #third-pic{
-    text-align: right;
-    margin-left:680px;
-    margin-top:-400px;
+    float:right;
+    margin-right:100px;
+}
+
+.p2{
+    float:left;
 }
 
 
