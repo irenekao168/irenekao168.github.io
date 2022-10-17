@@ -1,0 +1,431 @@
+body{
+    margin: 0;
+    margin-top:0;
+}
+
+
+.first{
+    background-color:rgb(57, 76, 86);
+    height:200px;
+}
+#text{
+    text-align:center;
+    color:white;
+    font-family: "Courier";
+    font-size:100px;
+}
+
+.rec1{
+    height: 5px;
+    width: auto;
+    background-color:rgb(45, 176, 58);
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:25px;
+}
+
+.second{
+    background-color:rgb(57, 76, 86);
+    height:800px;
+}
+
+
+
+.rec2{
+    height:auto;
+    width:400px;
+    background-color:rgba(234, 122, 53, 1.0);
+    padding:20px 20px 20px 20px;
+    box-shadow: 5px 5px #383843;
+}
+
+#text1{
+    text-align:center;
+    font-family:"Farro";
+    color:white;
+    font-size:50px;
+ 
+}
+
+.des1{
+    margin-top:30px;
+ 
+}
+.d1-1{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d1-1desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.des2{
+    margin-top:30px;
+}
+
+.d2-1{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d2-1desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+
+
+.des3{
+    margin-top:30px;
+}
+
+.d3-1{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d3-1desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.des4{
+    margin-top:30px;
+}
+
+.d4-1{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d4-1desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.price1{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+.price2{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+.price3{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+.price4{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+
+
+
+#first-pic{
+    text-align: right;
+    position:absolute;
+    margin-top:60px;
+}
+
+
+
+
+
+
+.third{
+    background-color:rgb(57, 76, 86);
+    height:600px;
+    padding-top:100px;
+}
+
+#second-pic{
+    text-align: right;
+    position:absolute;
+    margin-left:680px;
+    margin-top:-400px;
+}
+
+
+.rec3{
+    height:auto;
+    width:400px;
+    background-color:rgba(234, 122, 53, 1.0);
+    padding:20px 20px 20px 20px;
+    box-shadow: 5px 5px #383843;
+}
+
+#text2{
+    text-align:center;
+    font-family:"Farro";
+    color:white;
+    font-size:50px;
+ 
+}
+
+.des2-1{
+    margin-top:30px;
+ 
+}
+.d1-2{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d1-2desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.des2-2{
+    margin-top:30px;
+}
+
+.d2-2{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d2-2desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+
+
+.des2-3{
+    margin-top:30px;
+}
+
+.d3-1{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d3-2desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.price1-2{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+.price2-2{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+.price3{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+.price3-2{
+    margin-left:530px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+
+
+.fourth{
+    background-color:rgb(57, 76, 86);
+    height:600px;
+    margin-top:-30px;
+}
+
+#third-pic{
+    text-align: right;
+    position:absolute;
+    margin-left:680px;
+    margin-top:-400px;
+}
+
+
+.rec4{
+    height:auto;
+    width:560px;
+    background-color:rgba(234, 122, 53, 1.0);
+    padding:20px 20px 20px 20px;
+    box-shadow: 5px 5px #383843;
+}
+
+#text3{
+    text-align:center;
+    font-family:"Farro";
+    color:white;
+    font-size:50px;
+ 
+}
+
+.des3-1{
+    margin-top:30px;
+ 
+}
+.d1-3{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d1-3desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.des3-2{
+    margin-top:30px;
+}
+
+.d2-3{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d2-3desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+
+
+.des3-3{
+    margin-top:30px;
+}
+
+.d3-3{
+    font-family: "Roboto";
+    font-weight:700;
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+    margin-bottom:10px;
+}
+
+.d3-3desc{
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+    margin-left:30px;
+}
+
+.price1-3{
+    margin-left:540px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+.price2-3{
+    margin-left:540px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+.price3-3{
+    margin-left:540px;
+    margin-top:-20px;
+
+    font-family: "Roboto";
+    color:white;
+    font-size:22px;
+}
+
+
+
+
+
+
+
