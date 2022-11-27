@@ -1,0 +1,174 @@
+body { 
+    margin: 0px; 
+    overscroll-behavior: none;
+    padding: 0;
+}
+
+#pan1{
+    background: #A9B4BF;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fav-cont{
+    background: #F3F2F2;
+    width: 65%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fav-title{
+    font-family: "Jua";
+    color: #574B4B;
+    font-size: 60px;
+}
+
+ol{
+    padding: 15px;
+}
+
+#pan2{
+    background: #EAD4D4;
+    width: 100%;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cont1{
+    background: #EAD4D4;
+    width: 50%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#title1{
+    font-family: "Autour One";
+    color: #574B4B;
+    font-size: 40px;
+}
+
+#descript1{
+    font-family: "Avenir Next Condensed";
+    color: #574B4B;
+    font-size: 20px;
+}
+
+#circle1{
+    background: url('img/strawberry_shortcake.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 32vw;
+    height: 32vw;
+}
+
+#pan3{
+    background: #ADB9C7;
+    width: 100%;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+#cont2{
+    background: #ADB9C7;
+    width: 40%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#title2{
+    font-family: "Autour One";
+    color: #574B4B;
+    font-size: 40px;
+}
+
+#descript2{
+    font-family: "Avenir Next Condensed";
+    color: #574B4B;
+    font-size: 20px;
+}
+
+#circle2{
+    background: url('img/sundae.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 32vw;
+    height: 32vw;
+}
+
+#pan4{
+    background: #DAC8C6;
+    width: 100%;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cont3{
+    background: #DAC8C6;
+    width: 50%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#title3{
+    font-family: "Autour One";
+    color: #574B4B;
+    font-size: 40px;
+}
+
+#descript3{
+    font-family: "Avenir Next Condensed";
+    color: #574B4B;
+    font-size: 20px;
+}
+
+#circle3{
+    background: url('img/vanilla_cake.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 32vw;
+    height: 32vw;
+}
+
+#pan5{
+    background: #F3ECEC;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#return-home{
+    font-family: "Autour One";
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#return-home:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
