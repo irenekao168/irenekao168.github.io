@@ -57,6 +57,11 @@ ol{
     font-size: 40px;
 }
 
+#title1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #descript1{
     font-family: "Avenir Next Condensed";
     color: #574B4B;
@@ -96,6 +101,11 @@ ol{
     font-family: "Autour One";
     color: #574B4B;
     font-size: 40px;
+}
+
+#title2:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 #descript2{
@@ -138,6 +148,11 @@ ol{
     font-size: 40px;
 }
 
+#title3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #descript3{
     font-family: "Avenir Next Condensed";
     color: #574B4B;
@@ -160,6 +175,37 @@ ol{
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 10px;
+}
+
+#cupcake-box1{
+    height: 2vw;
+    width: 2vw;
+    background:url('img/muffin.png');
+    background-size: cover;
+    animation-name: cupcake_spin1;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+#cupcake-box2{
+    height: 2vw;
+    width: 2vw;
+    background:url('img/muffin.png');
+    background-size: cover;
+    animation-name: cupcake_spin2;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes cupcake_spin1{
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
+}
+
+@keyframes cupcake_spin2{
+    from {transform:rotate(360deg);}
+    to {transform:rotate(0deg);}
 }
 
 #return-home{
