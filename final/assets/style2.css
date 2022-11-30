@@ -20,6 +20,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: solid 5px #F3F2F2;
+    animation-name: border_anim;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes border_anim {
+    0% {
+        border-right: solid 5px rgba(255, 169, 169, 0.731);
+    }
+    25% {
+        border-top: solid 5px rgba(218, 176, 255, 0.731);
+    }
+    50% {
+        border-left: solid 5px rgba(251, 214, 156, 0.731);
+    }
+    75% {
+        border-bottom: solid 5px rgba(177, 230, 255, 0.731);
+    }
 }
 
 #fav-title{
